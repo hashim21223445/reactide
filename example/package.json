@@ -28,7 +28,7 @@
     "sass-loader": "^6.0.7",
     "style-loader": "^0.20.3",
     "vinyl-source-stream": "^1.1.0",
-    "watchify": "^3.2.2",
+    "watchify": "^4.0.0",
     "webpack": "4.19.1"
   },
   "devDependencies": {
@@ -38,6 +38,6 @@
     "babel-preset-react": "^6.24.1",
     "isomorphic-fetch": "^2.2.1",
     "webpack-cli": "2.1.4",
-    "webpack-dev-server": "^3.1.9"
+    "webpack-dev-server": "^4.0.0"
   }
 }
